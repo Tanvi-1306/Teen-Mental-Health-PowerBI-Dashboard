@@ -1,4 +1,4 @@
-![Dashboard Screenshot]([Home-Page.png](https://github.com/Tanvi-1306/Teen-Mental-Health-PowerBI-Dashboard/blob/main/Home%20Page%20(1).png))
+![image]([Home-Page.png](https://github.com/Tanvi-1306/Teen-Mental-Health-PowerBI-Dashboard/blob/main/Home%20Page%20(1).png))
 
 
 
