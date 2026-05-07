@@ -1,9 +1,3 @@
-![Dashboard Screenshot](Home-Page.png)
-
-
-
-
-
 # Teen-Mental-Health-PowerBI-Dashboard
 # Teen Mental Health Analysis Dashboard
 
